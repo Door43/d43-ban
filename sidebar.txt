@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ban:home|Door43 (ban)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ban|d43-ban repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ban/archive/master.zip|d43-ban.zip]]
+
+**Recent Changes**
+{{changes>ns = ban}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ban|Ethnologue data]]
+
